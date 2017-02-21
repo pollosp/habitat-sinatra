@@ -1,7 +1,11 @@
+## Important
+
+- This code is an example and may not work as you expect
+
 ## Vars
 
-export HAB_AUTH_TOKEN=(github token with GitHub authentication: user:email and read:org ) 
-export HAB_ORIGIN=pollosp # your origin created in https://app.habitat.sh 
+- export HAB_AUTH_TOKEN=(github token with GitHub authentication: user:email and read:org ) 
+- export HAB_ORIGIN=pollosp # your origin created in https://app.habitat.sh 
 
 ## Others 
 
