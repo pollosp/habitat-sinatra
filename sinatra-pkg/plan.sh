@@ -30,7 +30,6 @@ pkg_exposes=(port)
 
 pkg_svc_run="start_rack"
 pkg_svc_user="root"
-pkg_interpreters=(bin/ruby)
 
 do_verify() {
   return 0
